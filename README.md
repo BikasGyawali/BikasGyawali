@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BikasGyawali
 - 👀 I’m interested in Web Development, Web Design.
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React, Figma.
 - 💞️ I’m looking to collaborate on .
 - 📫 You can mail me at bikashgyawali33@gmail.com
 
