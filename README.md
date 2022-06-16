@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BikasGyawali
 - 👀 I’m interested in Web Development, Web Design.
 - 🌱 I’m currently learning React, Figma.
-- 💞️ I’m looking to collaborate on .
+- 💞️ I’m looking to collaborate on front end web development.
 - 📫 You can mail me at bikashgyawali33@gmail.com
 
 <!---
