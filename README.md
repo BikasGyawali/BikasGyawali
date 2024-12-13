@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development, Web Design.
 - 🌱 I’m currently learning React, Figma.
 - 💞️ I’m looking to collaborate on front end web development.
-- 📫 You can mail me at bikashgyawali33@gmail.com
+- 📫 You can mail me at bikashgyawali41@gmail.com
 
 <!---
 BikasGyawali/BikasGyawali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
