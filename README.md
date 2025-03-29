@@ -20,7 +20,7 @@
 ### **Backend**  
 - 🚀 **Node.js**  
 - 🔥 **Express.js**  
-- 🏗 **Golang** *(currently learning)*
+- ![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=fff) *(currently learning)*
 
 ### **Database**  
 - 🐘 **PostgreSQL**  
