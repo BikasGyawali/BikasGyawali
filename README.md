@@ -9,30 +9,30 @@
 
 ## 🛠 My Tech Stack
 
-### **Frontend**
-- **React** | **Next.js** | **TypeScript**
-- **Redux** | **TailwindCSS** | **MUI**
-  
-### **Backend**
-- **Node.js** | **Express.js**
-- **Golang** *(currently learning)*
+### **Frontend**  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=fff)  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=fff)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=fff)  
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=fff)  
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=fff)  
+![MUI](https://img.shields.io/badge/-MUI-007FFF?style=flat&logo=mui&logoColor=fff)
 
-### **Database**
-- **PostgreSQL** | **MongoDB**
+### **Backend**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff)  
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=fff)  
+![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=fff) *(currently learning)*
 
-### **Tools**
-- **Git** | **Bitbucket** | **Docker** | **Vite**
+### **Database**  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=fff)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff)
+
+### **Tools**  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)  
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=fff)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=fff)  
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=fff)
 
 ## 🌱 Currently Focusing On
 🔧 I'm deep-diving into **backend development** and **learning Golang** to build efficient and scalable backend systems.  
 
-## 🤝 Let's Collaborate!
-I’m actively looking to collaborate on **frontend development** projects and open to backend challenges as well. If you're passionate about building amazing things, let's connect!
-
----
-
-📫 **Reach me at**: [bikashgyawali41@gmail.com](mailto:bikashgyawali41@gmail.com)
-
----
-
-🌐 **Follow me on GitHub**: [@BikasGyawali](https://github.com/BikasGyawali)  
+## 🤝
