@@ -28,7 +28,7 @@
 
 ### **Tools & Platforms**  
 - 🌍 **Git** | 📦 **Bitbucket**  
-- 🐳 **Docker** | ⚡ **Vite**
+- 🛠 **Jira** | ⚡ **Vite**
 
 ## 🌱 Currently Focusing On
 🔧 I'm diving deep into **backend development** and learning **Golang** to build efficient and scalable backend systems. I'm aiming to enhance my skills in full-stack development.  
